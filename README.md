@@ -24,4 +24,9 @@ A simple REST API built using Node.js and Express.js for managing company data.
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/VedBisne10/Company-API.git
+```
+2. Go to the project directory: cd CompaniesAPI
+3. Open the terminal and run: npm install
+4. In the terminal, run: node server.js
+
